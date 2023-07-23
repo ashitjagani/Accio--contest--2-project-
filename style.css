@@ -18,9 +18,52 @@
 .border { 
     width: 1386px;
     height: 742px;
-    top: 155px;
+    top: 100px;
     left: 27px;
     border-radius: 50px;
-    border: 10px solid black;
+    border: none;
     background-image: linear-gradient(#c7e4de,#dec7e4,#e4dec7);
 }
+
+.pop-2{
+    margin-top: 180px;
+    position:absolute;
+    margin-left: 50px;
+    
+}
+
+.bb{
+    font-weight: 700;
+    color: #184655;
+    font-size: 45px;
+}
+
+.er{
+    margin-top: 300px;
+    position: absolute;
+    height: 78px;
+    width: 546px;
+    margin-left: 50px;
+  
+     
+
+}
+
+.pg{
+    height: 78px;
+    border-radius: 19px;
+    width: 300px;
+    font-size: medium;
+}
+
+.pun{
+    border:2px solid black;
+    height: 78px;
+    width: 50px;
+    margin-left: 0px;
+    position: absolute;
+    align-content: center;
+    padding: 5px;
+}
+
+
