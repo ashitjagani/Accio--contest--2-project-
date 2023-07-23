@@ -1,0 +1,26 @@
+.img {
+    margin-top: 34px;
+    margin-left: 49px;
+    position: relative;
+    display: inline-flexbox
+}
+
+.blog {
+    width: 96px;
+    height: 49px;
+    margin-top: 23px;
+    margin-left: 13px;
+    text-align: center;
+    position:absolute;
+    display: inline-flexbox;
+}
+
+.border { 
+    width: 1386px;
+    height: 742px;
+    top: 155px;
+    left: 27px;
+    border-radius: 50px;
+    border: 10px solid black;
+    background-image: linear-gradient(#c7e4de,#dec7e4,#e4dec7);
+}
